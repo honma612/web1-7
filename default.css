@@ -13,6 +13,13 @@ header{
   width: 100%;
 }
 
+#main{
+  background-color: white;
+  width: calc(100% - 200px);
+  min-width: 500px;
+  float: left;
+}
+
 .box{
   background-color: yellow;
   color: black;
