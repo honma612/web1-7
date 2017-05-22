@@ -10,15 +10,21 @@ header{
 
 #main1{
   background-color: lightblue;
+  width: 200px;
+  float: left;
 }
 
 
 #main2{
   background-color: lightblue;
+  width: 200px;
+  float: right;
 }
 
 aside{
   background-color: lightpink;
+  width: 500px;
+  clear: both;
 }
 
 footer{
