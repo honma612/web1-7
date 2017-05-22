@@ -8,6 +8,12 @@ header{
   background-color: lightblue;
 }
 
+#main{
+  width: calc(100% - 200px);
+  min-width: 500px;
+  float: left;
+}
+
 #main1{
   background-color: lightblue;
   width: 200px;
