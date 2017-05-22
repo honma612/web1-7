@@ -1,5 +1,26 @@
 @charset "UTF-8";
 
 body{
-  
+  background-color: cyan;
+}
+
+header{
+  background-color: lightblue;
+}
+
+#main1{
+  background-color: lightblue;
+}
+
+
+#main2{
+  background-color: lightblue;
+}
+
+aside{
+  background-color: lightpink;
+}
+
+footer{
+  background-color: blue;
 }
